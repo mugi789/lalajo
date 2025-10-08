@@ -111,21 +111,8 @@ https://mimipipi22.github.io/logo/offline.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg?raw=true" group-title="INDONESIA TV",INDOSIAR TV
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
-http://www.geocities.ws/wahyuiptv/IndosiarHD.m3u8
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg?raw=true" group-title="INDONESIA TV",INDOSIAR LIVE SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-https://mimipipi22.github.io/logo/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -3555,3 +3542,4 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs11
 
 
 #EXTM3U billed-msg="😎⛔ Source Playlist Ini [Gratis] Jangan Diperjualbelikan ⛔😎"
+
